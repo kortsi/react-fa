@@ -1,3 +1,8 @@
+This fork does not require CSS when not running in browser (eg. Node.js).
+No other modifications.
+
+----
+
 # Font Awesome icons as React components
 
 ## Installation
