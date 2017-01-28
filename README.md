@@ -1,5 +1,5 @@
 This fork does not require CSS when not running in browser (eg. Node.js).
-No other modifications.
+Also we include a pre-built version. No other modifications.
 
 ----
 
